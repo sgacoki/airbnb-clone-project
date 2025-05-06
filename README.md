@@ -1,6 +1,5 @@
 # airbnb-clone-project
 ## UI/UX Design Planning
-This section includes the user experience and interface design considerations for the AirBnd project.
 
 ### Wireframes
 ### Design Goals
